@@ -11,7 +11,7 @@ Este documento describe el desarrollo de un sistema automatizado para una máqui
 Entre los sensores utilizados se encuentran el Sensor de Proximidad Inductivo y el Sensor Ultrasónico, los cuales permiten detectar objetos y medir distancias de forma exacta. Estos sensores son esenciales para asegurar el correcto posicionamiento de las correas durante el proceso de embalaje.
 En cuanto a los motores, se optó por Motores de Corriente Continua (DC), los cuales permiten un control suave y preciso de la velocidad, así como Servomotores, que destacan por su precisión en el control de movimientos. Estos motores son cruciales para gestionar el movimiento de las correas en el proceso de embalaje.
 </h2> </p>
-	</div>
+</div>
 <div>
 <p><h1><marquee>Sensores y Motores en la Automatización de una Embaladora de Correas 
 </marquee></h1></p>
