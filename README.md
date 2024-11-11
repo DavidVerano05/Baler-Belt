@@ -20,6 +20,7 @@ Actúan como interfaces que convierten diferentes tipos de señales físicas o q
 aplicación específica de las máquinas envasadoras con cinta, los sensores desempeñan un papel clave a la hora de mejorar la precisión y la eficiencia del proceso de envasado.
 
 </division>
+<division>
 <div>2. Detección de Presencia: Los sensores de proximidad son capaces de detectar la presencia de correas en diferentes puntos del sistema. Esta detección es esencial para asegurar que las correas estén correctamente posicionadas antes de iniciar el proceso de embalaje, evitando errores y garantizando un flujo de trabajo continuo y sin interrupciones.<div>
 <div>
 <div>	
