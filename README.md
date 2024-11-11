@@ -37,13 +37,25 @@ aplicación específica de las máquinas envasadoras con cinta, los sensores des
 <p><h1><marquee>Motores</marquee></h1></p>
 <h2>Los motores son dispositivos que convierten la energía eléctrica en movimiento
 mecánico, y son fundamentales en sistemas de automatización para controlar el movimiento de componentes. Dependiendo de los requisitos de precisión, velocidad y fuerza, es posible elegir entre varios tipos de motores. A continuación, se detallan los principales tipos de motores aplicables al proyecto de la embaladora de correas.
+	</div>
+<div>
 	Medición de Longitud
+	</div>
+<div>
 Definición: La longitud es una magnitud física fundamental que se refiere a la extensión de un objeto en una sola dimensión. Es una medida esencial en diversas disciplinas, incluyendo la física, la ingeniería y la construcción. La longitud se mide en unidades estándar como metros (m), centímetros (cm) y milímetros (mm), entre otras.
+	</div>
+<div>
 Métodos de Medición:
+	</div>
+<div>
 Instrumentos de Medición Directa:
 Reglas y Cintas Métricas: Son herramientas simples y comunes para medir la longitud. Una regla tiene una escala graduada y se usa para medir longitudes directamente, mientras que una cinta métrica es flexible, lo que permite medir objetos curvos o irregulares. La precisión de estas herramientas depende de la calidad de la escala y la habilidad del usuario.
 Calibradores (Pie de Rey): Instrumentos que permiten mediciones precisas de dimensiones internas, externas y profundidades. Consisten en una escala y un calibrador deslizante. Son especialmente útiles para mediciones detalladas en ingeniería y manufactura.
+	</div>
+<div>
 Instrumentos de Medición Indirecta:
+	</div>
+<div>
 Micrómetros: Utilizados para medir dimensiones pequeñas con alta precisión, como el grosor de una lámina o el diámetro de un alambre. Funcionan mediante un tornillo micrométrico que convierte la rotación en movimiento lineal muy preciso.
 Láseres de Medición: Emplean tecnología láser para medir distancias con gran precisión. El tiempo que tarda un pulso láser en reflejarse de vuelta al sensor se usa para calcular la distancia. Este método es útil para medir grandes distancias o en ambientes donde otras herramientas serían imprácticas.
 Sistemas de Visión Artificial: Utilizan cámaras y software de procesamiento de imágenes para medir dimensiones. Capturan imágenes del objeto y calculan su longitud basándose en algoritmos y modelos matemáticos. Son útiles para inspección y control de calidad en la fabricación.
@@ -53,11 +65,14 @@ Sistemas de Visión Artificial: Utilizan cámaras y software de procesamiento de
 <div>
 <p><h1><marquee>Conclusiones</marquee></h1></p>
 <p><h2>El desarrollo de la máquina de marroquinería enrolladora de correas automatizada ha demostrado ser eficaz en la mejora de la eficiencia y precisión en el enrollado de correas. 
-
+</div>
+<div>
 Implicaciones: Los resultados indican que la implementación de esta máquina puede significativamente optimizar los procesos de producción en la industria de la marroquinería, permitiendo una mayor producción con menor intervención humana. Esto no solo mejora la eficiencia operativa, sino que también puede resultar en una reducción de costos a largo plazo.
-
+</div>
+<div>
 Limitaciones: la máquina presenta ciertas limitaciones, como la necesidad de mantenimiento regular y la adaptación a diferentes tamaños y tipos de correas. Además, el costo inicial de inversión puede ser elevado para pequeñas empresas.
-
+</div>
+<div>
 Futuras recomendaciones: Se recomienda realizar estudios adicionales para explorar la integración de tecnologías que puedan adaptar automáticamente el proceso de enrollado a diferentes especificaciones de correas. Además, sería beneficioso investigar la posibilidad de reducir los costos de producción para facilitar su compra por parte de empresas de menor tamaño o empresas emprendedoras.</h2></p>
 </div>
 
