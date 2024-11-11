@@ -18,8 +18,8 @@ En cuanto a los motores, se optó por Motores de Corriente Continua (DC), los cu
 <p><h2>Los sensores son dispositivos fundamentales en los sistemas automatizados porque apoyan la interacción entre el entorno físico y el sistema de control.
 Actúan como interfaces que convierten diferentes tipos de señales físicas o químicas en datos que pueden ser interpretados por el sistema de control. Esto permite un monitoreo y ajuste preciso de variables ambientales como presencia, distancia, temperatura, presión, humedad y otros parámetros importantes. En un sistema automatizado, los sensores le permiten medir y detectar cambios en el entorno o el estado de los componentes del sistema. Por ejemplo, en la
 aplicación específica de las máquinas envasadoras con cinta, los sensores desempeñan un papel clave a la hora de mejorar la precisión y la eficiencia del proceso de envasado.
-<div>
-<div>
+
+</division>
 <div>2. Detección de Presencia: Los sensores de proximidad son capaces de detectar la presencia de correas en diferentes puntos del sistema. Esta detección es esencial para asegurar que las correas estén correctamente posicionadas antes de iniciar el proceso de embalaje, evitando errores y garantizando un flujo de trabajo continuo y sin interrupciones.<div>
 <div>
 <div>	
