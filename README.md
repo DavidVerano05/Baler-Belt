@@ -34,7 +34,7 @@ aplicación específica de las máquinas envasadoras con cinta, los sensores des
 </h2></p>
 </div>
 <div>
-<p><h1><marquee>MotoresL</marquee></h1></p>
+<p><h1><marquee>Motores</marquee></h1></p>
 <h2>Los motores son dispositivos que convierten la energía eléctrica en movimiento
 mecánico, y son fundamentales en sistemas de automatización para controlar el movimiento de componentes. Dependiendo de los requisitos de precisión, velocidad y fuerza, es posible elegir entre varios tipos de motores. A continuación, se detallan los principales tipos de motores aplicables al proyecto de la embaladora de correas.
 	Medición de Longitud
