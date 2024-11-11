@@ -18,10 +18,10 @@ En cuanto a los motores, se optó por Motores de Corriente Continua (DC), los cu
 <p><h2>Los sensores son dispositivos fundamentales en los sistemas automatizados porque apoyan la interacción entre el entorno físico y el sistema de control.
 Actúan como interfaces que convierten diferentes tipos de señales físicas o químicas en datos que pueden ser interpretados por el sistema de control. Esto permite un monitoreo y ajuste preciso de variables ambientales como presencia, distancia, temperatura, presión, humedad y otros parámetros importantes. En un sistema automatizado, los sensores le permiten medir y detectar cambios en el entorno o el estado de los componentes del sistema. Por ejemplo, en la
 aplicación específica de las máquinas envasadoras con cinta, los sensores desempeñan un papel clave a la hora de mejorar la precisión y la eficiencia del proceso de envasado.
-	2. Detección de Presencia: Los sensores de proximidad son capaces de detectar la presencia de correas en diferentes puntos del sistema. Esta detección es esencial para asegurar que las correas estén correctamente posicionadas antes de iniciar el proceso de embalaje, evitando errores y garantizando un flujo de trabajo continuo y sin interrupciones.
-3. Medición de Distancia: Los sensores de distancia, como los ultrasónicos o láser, permiten medir con precisión la distancia entre diferentes componentes del sistema, como entre las correas y los mecanismos de embalaje. Esta capacidad es vital para asegurar que las correas sean embaladas de manera uniforme y para ajustar el proceso en tiempo real según sea necesario,manteniendo la calidad y la consistencia del producto final.
-4. Monitoreo de Condiciones Ambientales: Sensores de temperatura y humedad monitorean las condiciones ambientales en las que opera la embaladora. Estos sensores garantizan que el ambiente sea adecuado para el proceso de embalaje y que las correas y otros materiales no se vean afectados negativamente por cambios en las condiciones ambientales.
-5. Control de Procesos: Los datos proporcionados por los sensores se envían al sistema de control automatizado, que utiliza esta información para tomar decisiones operativas en tiempo real. Esto permite ajustar parámetros del proceso, realizar correcciones automáticas y optimizar el funcionamiento
+	<div>2. Detección de Presencia: Los sensores de proximidad son capaces de detectar la presencia de correas en diferentes puntos del sistema. Esta detección es esencial para asegurar que las correas estén correctamente posicionadas antes de iniciar el proceso de embalaje, evitando errores y garantizando un flujo de trabajo continuo y sin interrupciones.<div>
+<div>3. Medición de Distancia: Los sensores de distancia, como los ultrasónicos o láser, permiten medir con precisión la distancia entre diferentes componentes del sistema, como entre las correas y los mecanismos de embalaje. Esta capacidad es vital para asegurar que las correas sean embaladas de manera uniforme y para ajustar el proceso en tiempo real según sea necesario,manteniendo la calidad y la consistencia del producto final.<div>
+<div>4. Monitoreo de Condiciones Ambientales: Sensores de temperatura y humedad monitorean las condiciones ambientales en las que opera la embaladora. Estos sensores garantizan que el ambiente sea adecuado para el proceso de embalaje y que las correas y otros materiales no se vean afectados negativamente por cambios en las condiciones ambientales.<div>
+<div>5. Control de Procesos: Los datos proporcionados por los sensores se envían al sistema de control automatizado, que utiliza esta información para tomar decisiones operativas en tiempo real. Esto permite ajustar parámetros del proceso, realizar correcciones automáticas y optimizar el funcionamiento<div>
 </h2></p>
 </div>
 <div>
@@ -51,6 +51,7 @@ Limitaciones: la máquina presenta ciertas limitaciones, como la necesidad de ma
 
 Futuras recomendaciones: Se recomienda realizar estudios adicionales para explorar la integración de tecnologías que puedan adaptar automáticamente el proceso de enrollado a diferentes especificaciones de correas. Además, sería beneficioso investigar la posibilidad de reducir los costos de producción para facilitar su compra por parte de empresas de menor tamaño o empresas emprendedoras.</h2></p>
 </div>
+
 
 
 
